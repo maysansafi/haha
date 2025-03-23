@@ -1,0 +1,23 @@
+.changes{
+    font-size: 24px;
+color: bisque;
+}
+
+.d1 {
+    color: rgb(92, 40, 40);
+    background-image: url("oh.avif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.change{
+    color: brown;
+    background-color: rgb(208, 192, 172);
+    border-color: rgb(50, 36, 36);
+}
